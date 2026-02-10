@@ -12,10 +12,9 @@
 
 ### 👩‍💻 About Me
 - 🎓 **BSc (Hons) in Computer Science Undergraduate** at CINEC Campus[cite: 26, 27].
-- 🔭 **Featured Project:** [AI-Based Pest Detection System](https://github.com/thumu2614-ship-it/Pest-Detection-System)[cite: 39, 40, 41].
-- 📄 **My Experiences:** [View Professional Resume on Canva](https://www.canva.com/design/DAHAu_n4cpQ/bU7s7m2lCccE1gGMPuaagg/view?utm_content=DAHAu_n4cpQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e8f0cdc34)[cite: 1, 38].
-- 📫 **Reach me at:** [thumu2614@gmail.com](mailto:thumu2614@gmail.com)[cite: 8].
-
+- 🔭 **Featured Project:** [AI-Based Pest Detection System](https://github.com/thumu2614-ship-it/Pest-Detection-System)
+- 📄 **My Experiences:** [View Professional Resume on Canva](https://www.canva.com/design/DAHAu_n4cpQ/bU7s7m2lCccE1gGMPuaagg/view?utm_content=DAHAu_n4cpQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e8f0cdc34)
+- 📫 **Reach me at:** [thumu2614@gmail.com](mailto:thumu2614@gmail.com)
 ---
 
 ### 🛠 Languages and Tools
