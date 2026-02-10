@@ -17,5 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thumudi_Amaya_&layout=compact&theme=radical)
 
 ### 📫 How to reach me
-- **LinkedIn:** (https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- **LinkedIn:** https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 - **Email:** Thumu2614@gmail.com
