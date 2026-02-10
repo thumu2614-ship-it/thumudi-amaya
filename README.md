@@ -6,13 +6,7 @@
   </a>
 </h3>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thumudi-amaya&theme=radical" alt="thumudi amaya" />
-  </a> 
-</p>
 
-<hr>
 
 ### 👩‍💻 About Me
 - 🔭 I’m currently working on **AI-Based Pest Detection System**
