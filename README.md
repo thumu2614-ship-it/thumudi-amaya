@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Aspiring+Data+Analyst;AI+and+IoT+Enthusiast;Creative+Content+Creator" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thumu2614-ship-it&theme=radical&column=7" alt="trophies" />
-</p>
-
----
 
 ### 👩‍💻 About Me
 - 🎓 **BSc (Hons) in Computer Science Undergraduate** at CINEC Campus[cite: 26, 27].
